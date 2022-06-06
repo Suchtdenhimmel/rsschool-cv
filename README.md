@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Suchtdenhimmel.github.io/rsschool-cv/cv
