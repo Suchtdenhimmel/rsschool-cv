@@ -8,6 +8,7 @@
 
 # About Me
 * I am **Raspberry Bear** on this party, and now I really want to learn Front-End Development with **RSSchool!** Well, lets get it started!
+
 # Skills
 * Absolutely nothing, but it's fixable
 
