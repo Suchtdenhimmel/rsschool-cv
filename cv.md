@@ -3,13 +3,13 @@
 * **Location**: Moscow, Russia
 * **Phone**: +79671087498
 * **Email**: michapro@gmail.com
-* **GitHub**: [https://github.com/Suchtdenhimmel] 
+* **GitHub**: https://github.com/Suchtdenhimmel
 # About Me
 * I am **Raspberry Bear** on this party, and now I really want to learn Front-End Development with **RSSchool!** Well, lets get it started!
 # Skills
 * Absolutely nothing, but it's fixable
 # Code Example
-* ` `    
+```   
 using System;
 					
 public class RigthAngleTrianglePatternProgram
@@ -28,7 +28,7 @@ public class RigthAngleTrianglePatternProgram
        
 	}
 }
-` ` 
+```
 # Experiance
 * None :)
 # Education
