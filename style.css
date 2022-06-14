@@ -142,7 +142,6 @@ img{
     text-align: center;
 }
 
-
 .address a{
   background-color: #007ba7;
   color: #fff;
@@ -155,7 +154,6 @@ img{
   background-color: #3E9403;
   color: #fff;
 }
-
 
 .container .left_col .left_col_3 ul li{
     display: flex;
@@ -175,7 +173,6 @@ img{
     background: #ffffff;
     position: relative;
 }
-
 
 span{
     position: absolute;
@@ -310,7 +307,7 @@ span{
   }
 
   .exp a:hover {
-    color: brown;;
+    color: brown;
   }
 
 .expp a {
@@ -325,10 +322,24 @@ span{
   }
 
   .expp a:hover {
-    color: brown;;
+    color: brown;
   }
 
 .code-example {
     font-size: 0.8rem;
     color: #225565;
+}
+[class*='__link'] {
+	font-family: 'Manrope';
+	font-style: normal;
+	font-weight: 800;
+	font-size: 12px;
+	line-height: 15px;
+	text-decoration: none;
+	color: #1d1c22;
+}
+
+[class*='__link']:hover {
+	color: #534889;
+	transition: 0.3s;
 }
