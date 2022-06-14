@@ -31,7 +31,7 @@ body{
     position: relative;
     width: 100%;
     height: 330px;
-    background: #327D9D;
+    background: #007ba7;
   
 }
 
@@ -39,14 +39,14 @@ body{
     position: relative;
     width: 100%;
     height: 210px;
-    background: #225565;
+    background: #1c6b72;
 }
 
 .left_col_3{
     position: relative;
     width: 100%;
     height: 446px;
-    background: #225565;
+    background: #1c6b72;
     padding: 25px 0;
 }
 
@@ -55,7 +55,7 @@ body{
     width: 100%;
     height: 230px;
     padding: 25px 0;
-    background: #225565;
+    background: #1c6b72;
 }
 
 img{
@@ -92,24 +92,24 @@ img{
 
 .header4{
     left: 200px;
-    color: #225565;
+    color: #1c6b72;
 }
 
 .header5{
   left: 215px;
-  color: #225565;
+  color: #1c6b72;
 }
 
 .header6{
   left: 60px;
-  color: #225565;
+  color: #1c6b72;
   font-size: 12px;
 }
 
 .below{
   top: 40px;
   left: 60px;
-  color: #225565;
+  color: #1c6b72;
   font-size: 12px;
   font-weight: 500;
 }
@@ -130,7 +130,7 @@ img{
     font-size: 12px;
     font-weight: 600;
     text-transform: uppercase;
-    color: #225565;
+    color: #1c6b72;
 }
 
 .address{
@@ -144,7 +144,7 @@ img{
 
 
 .address a{
-  background-color: #327D9D;
+  background-color: #007ba7;
   color: #fff;
   padding: 5px 10px;
   text-decoration: none;
@@ -182,7 +182,7 @@ span{
     top: 3px;
     left: 3px;
     height: 75%;
-    background: #327D9D;
+    background: #007ba7;
     font-size: 10px;
 }
 
